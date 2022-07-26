@@ -1,0 +1,14 @@
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\HaberPortal.Data.dll.config
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\HaberPortal.Data.dll
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\HaberPortal.Data.pdb
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csprojAssemblyReference.cache
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.CopyComplete
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.dll
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.pdb
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.Olustur.resources
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.GenerateResource.cache
