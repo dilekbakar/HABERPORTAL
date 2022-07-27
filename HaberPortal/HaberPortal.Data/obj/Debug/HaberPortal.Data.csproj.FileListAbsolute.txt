@@ -12,3 +12,4 @@ C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug
 C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.pdb
 C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.Olustur.resources
 C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.GenerateResource.cache
+C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.Olustur1.resources

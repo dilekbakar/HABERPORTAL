@@ -1,3 +1,4 @@
+using HaberPortal.Admin.Class;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace HaberPortal.Admin
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            BootStrapper.RunConfig();
         }
     }
 }
