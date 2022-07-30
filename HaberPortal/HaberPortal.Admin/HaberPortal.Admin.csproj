@@ -149,6 +149,16 @@
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HaberPortal.Core\HaberPortal.Core.csproj">
+      <Project>{2d9147e9-99dd-4964-ab88-334ded8d4723}</Project>
+      <Name>HaberPortal.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HaberPortal.Data\HaberPortal.Data.csproj">
+      <Project>{bf9a6e2e-84be-483a-b429-4e168fafa883}</Project>
+      <Name>HaberPortal.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

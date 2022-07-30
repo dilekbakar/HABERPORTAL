@@ -51,15 +51,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Infrastructure\IHaberRepository.cs" />
+    <Compile Include="Infrastructure\IKullaniciRepository.cs" />
     <Compile Include="Infrastructure\IRepository.cs" />
+    <Compile Include="Infrastructure\IResimRepository.cs" />
+    <Compile Include="Infrastructure\IRolRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\HaberRepository.cs" />
+    <Compile Include="Repository\IRepository.cs" />
+    <Compile Include="Repository\KullaniciRepository.cs" />
+    <Compile Include="Repository\ResimRepository.cs" />
+    <Compile Include="Repository\RolRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Repository\" />
+    <ProjectReference Include="..\HaberPortal.Data\HaberPortal.Data.csproj">
+      <Project>{bf9a6e2e-84be-483a-b429-4e168fafa883}</Project>
+      <Name>HaberPortal.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
