@@ -17,7 +17,7 @@ namespace HaberPortal.Core.Repository
         private readonly HaberContext _context = new HaberContext();
         public int Count()
         {
-            return _context.Resim.Count();
+            return _context.Kullanici.Count();
         }
 
         public void Delete(int id)

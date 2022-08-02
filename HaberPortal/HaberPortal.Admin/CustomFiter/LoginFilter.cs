@@ -15,7 +15,7 @@ namespace HaberPortal.Admin.CustomFiter
         {
             HttpContextWrapper wrapper = new HttpContextWrapper(HttpContext.Current);
             //session kontrol.
-            var SessionControl = context.HttpContext.Session["KullaniciEmail"];
+            var SessionControl = context.HttpContext.Session["KullaniciEMail"];
             if (SessionControl == null)
             {
                 //kullanıcı email sessionı boş ise bizi buraya yönlendirecek. boş değilse yönetim paneline devam edebilir.
