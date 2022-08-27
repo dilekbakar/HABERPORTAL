@@ -39,5 +39,7 @@ namespace HaberPortal.Data.Model
         public string Resim { get; set; }
 
         public virtual ICollection<Resim> Resims { get; set; }
+
+        public virtual Kategori Kategori { get; set; }
     }
 }

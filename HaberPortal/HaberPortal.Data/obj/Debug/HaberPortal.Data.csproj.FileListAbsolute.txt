@@ -13,3 +13,17 @@ C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug
 C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.Olustur.resources
 C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.GenerateResource.cache
 C:\Users\Dilek\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.Olustur1.resources
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\HaberPortal.Data.dll.config
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\HaberPortal.Data.dll
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\HaberPortal.Data.pdb
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.CopyComplete
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.dll
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.pdb
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.First.resources
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.GenerateResource.cache
