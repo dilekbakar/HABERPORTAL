@@ -22,6 +22,7 @@ namespace HaberPortal.Data.DataContext
         public DbSet<Haber> Haber { get; set; }
 
         public DbSet<Resim> Resim { get; set; }
+        public DbSet<Kategori> Kategori { get; set; }
         
 
 
