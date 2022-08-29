@@ -131,10 +131,12 @@
     <Content Include="img\undraw_profile_2.svg" />
     <Content Include="img\undraw_profile_3.svg" />
     <Content Include="img\undraw_rocket.svg" />
+    <Content Include="Scripts\bootbox.min.js" />
     <Content Include="Scripts\demo\chart-area-demo.js" />
     <Content Include="Scripts\demo\chart-bar-demo.js" />
     <Content Include="Scripts\demo\chart-pie-demo.js" />
     <Content Include="Scripts\demo\datatables-demo.js" />
+    <Content Include="Scripts\Global.js" />
     <Content Include="Scripts\sb-admin-2.js" />
     <Content Include="Scripts\sb-admin-2.min.js" />
     <Content Include="vendor\bootstrap\js\bootstrap.bundle.js" />
@@ -1811,6 +1813,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Class\BootStrapper.cs" />
+    <Compile Include="Class\ResultJson.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\KategoriController.cs" />
