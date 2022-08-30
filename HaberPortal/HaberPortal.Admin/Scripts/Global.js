@@ -6,9 +6,10 @@
     Kategori.AktifMi = $("#kategoriAktif").is(":checked");
 
     $.ajax({
-        url: "Kategori/Ekle",
+        url: "/Kategori/Ekle",
         data: Kategori,
         type: "POST",
+        dataType: 'json',
         success: function (response) {
             if (response.Success) {
                 bootbox.alert(response.Message, function () {

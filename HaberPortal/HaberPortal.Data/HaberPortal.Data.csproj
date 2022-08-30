@@ -56,6 +56,10 @@
     <Compile Include="Migrations\202208271226534_First.designer.cs">
       <DependentUpon>202208271226534_First.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202208301048210_second.cs" />
+    <Compile Include="Migrations\202208301048210_second.designer.cs">
+      <DependentUpon>202208301048210_second.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\Haber.cs" />
     <Compile Include="Model\Kategori.cs" />
@@ -71,6 +75,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202208271226534_First.resx">
       <DependentUpon>202208271226534_First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202208301048210_second.resx">
+      <DependentUpon>202208301048210_second.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -21,7 +21,7 @@ namespace HaberPortal.Data.Model
         public int ParentID { get; set; }
 
         [MinLength(2, ErrorMessage = "{0} karakterden az olamaz"), MaxLength(150, ErrorMessage = "150 karakterden fazla girmeyiniz.")]
-        public string URL { get; set; }
+        public string Url { get; set; }
 
         public bool AktifMi { get; set; }
 

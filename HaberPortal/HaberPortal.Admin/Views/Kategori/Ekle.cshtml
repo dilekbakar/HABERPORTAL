@@ -2,6 +2,7 @@
 @{
     ViewBag.Title = "Kategori Ekle";
     Layout = "~/Views/Shared/_Layout.cshtml";
+ 
 }
 <div class="container-fluid">
     <header class="panel panel-default">@ViewBag.Title</header>
@@ -44,11 +45,9 @@
         </div>
         <div class="row mb-3">
             <div class="col-sm-10 offset-sm-2">
-                <a class="btn btn-primary" onclick="KategoriEkle();">Kaydet</a>
+                <a href="#" class="btn btn-primary" onclick="KategoriEkle();">Kaydet</a>
             </div>
         </div>
     </form>
 </div>
 
-<script src="~/Scripts/Global.js"></script>
-<script src="~/Scripts/bootbox.min.js"></script>

@@ -27,3 +27,4 @@ C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\
 C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.pdb
 C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.First.resources
 C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GITHUB\HABERPORTAL\HaberPortal\HaberPortal.Data\obj\Debug\HaberPortal.Data.Migrations.second.resources
